@@ -28,5 +28,4 @@ This is a Python-based desktop application that evaluates the strength of a pass
 1. Clone the repository or download the script file.  
 2. Run the script using Python.  
 
-```bash
-python password_strength_checker.py
+
